@@ -1,16 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Musa! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]<img width="1141" height="787" alt="image" src="https://github.com/user-attachments/assets/2e91eb40-d9d7-443e-9f79-7b52e7bfc128" />
+)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **IT professional** with experience in **Web application, SEO, and digital marketing**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Advance API and backend integrations**
+- 🔭 Working on: **currently working on a staff management system**
+- 🌍 Languages: **HTML, PHP,and JS**
+- 📫 How to reach me: **musabojang413@gmail.com**
+- ⚡ Fun fact: **I love working with BIG numbers**
 
 ## My Skills 🧠
 
@@ -24,22 +25,18 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Project 1 Study Abroad Platform]([project_1_link](https://www.goldenchipseducation.com/))
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](<img width="1090" height="915" alt="image" src="https://github.com/user-attachments/assets/f847ffdb-4908-4c9f-9480-3249f694df79" />
+)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Goldenchips education** is a **online platform for assisting young graduates to pursue further education abroad** built with **Custom wordpress, JS and paid plugins**. This project demonstrates my ability to **build fullstack application with wordpress and JS and integrate APIs**. 
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **Business website**(https://hexia-gm.github.io/)
+- **LinkedIn**(https://www.linkedin.com/in/musa-bojang-5a924a13a/)
+
 
 
